@@ -1,5 +1,5 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date:
+## Date:19-12-2025
 
 ## AIM:
  To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side. 
@@ -32,13 +32,23 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
+math.html
 
+```
+```
+views.py
+
+```
+```
+urls.py
+```
 
 ## SERVER SIDE PROCESSING:
-
+![alt text](<Screenshot 2025-12-19 093956.png>)
 
 ## HOMEPAGE:
 
-
+![alt text](<Screenshot 2025-12-19 094010.png>)
 ## RESULT:
 The program for performing server side processing is completed successfully.
